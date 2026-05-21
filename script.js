@@ -1,7 +1,7 @@
 // CONFIGURACIÓN
 const SPREADSHEET_ID = '10Nx3MAg19csBRH-Ndp11TEi3g7zbSUj3eNRx9h2q0VE';
 const API_KEY = 'AIzaSyAg3CQI5xzQyedIusY7aMm6kPpvahYv6D4'; 
-const RANGE = 'Productos!A2:K100'; 
+const RANGE = 'Productos!A2:K1000'; 
 const REFRESH_INTERVAL = 30000; 
 
 let allOrders = [];
